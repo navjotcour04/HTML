@@ -1,0 +1,22 @@
+form{
+    margin: auto;
+    padding: 1rem;
+    background-color: rgb(75, 71, 71);
+    width: 50vw;
+    font-size: 1.3rem;
+    color: ghostwhite;
+    padding-left: 2vw;
+    border: 10px double whitesmoke;
+    border-radius: 11px;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+input:hover, textarea:hover, select:hover{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: rgb(192, 192, 192);
+}
