@@ -1,22 +1,22 @@
 form{
     margin: auto;
-    padding: 1rem;
-    background-color: rgb(75, 71, 71);
+    padding: 2rem;
+    background-color: rgb(48, 45, 45);
     width: 50vw;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: ghostwhite;
-    padding-left: 2vw;
-    border: 10px double whitesmoke;
-    border-radius: 11px;
+    padding-left: 3vw;
+    border: 11px double whitesmoke;
+    border-radius: 10px;
 }
 h1{
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgb(252, 240, 240);
 }
 input:hover, textarea:hover, select:hover{
     background-color: black;
     color: white;
 }
 body{
-    background-color: rgb(192, 192, 192);
+    background-color: rgb(186, 186, 186);
 }
